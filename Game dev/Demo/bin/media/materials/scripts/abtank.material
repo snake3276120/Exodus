@@ -1,0 +1,515 @@
+material 07-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.360784 0.419608 0.294118 1
+			diffuse 0.360784 0.419608 0.294118 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material 07-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.360784 0.419608 0.294118 1
+			diffuse 0.360784 0.419608 0.294118 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material CHESHEN
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.858824 0.580392 1
+			diffuse 0.960784 0.858824 0.580392 1
+			specular 0 0 0 1 20
+		}
+
+	}
+
+}
+
+
+
+material TONGYONG
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.858824 0.580392 1
+			diffuse 0.960784 0.858824 0.580392 1
+			specular 0 0 0 1 20
+		}
+
+	}
+
+}
+
+
+
+material TONGYONG
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.858824 0.580392 1
+			diffuse 0.960784 0.858824 0.580392 1
+			specular 0 0 0 1 20
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157 1
+			diffuse 0.192157 0.192157 0.192157 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material M2HB
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture M2HB.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material tongyong
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture tongyong.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material M240B
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture M240B.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#451
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.545098 0.0901961 0.027451 1
+			diffuse 0.545098 0.0901961 0.027451 1
+			specular 0.184314 0.184314 0.184314 1 100
+			scene_blend add
+
+			texture_unit
+			{
+				colour_op_ex blend_manual src_manual src_current 0.77 1 1 1
+				colour_op_multipass_fallback dest_colour zero
+				alpha_op_ex source1 src_manual src_current 0.77
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#45
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.882353 0.882353 0.882353 1
+			diffuse 0.882353 0.882353 0.882353 1
+			specular 0.184314 0.184314 0.184314 1 100
+			scene_blend add
+
+			texture_unit
+			{
+				colour_op_ex blend_manual src_manual src_current 0.77 1 1 1
+				colour_op_multipass_fallback dest_colour zero
+				alpha_op_ex source1 src_manual src_current 0.77
+			}
+		}
+
+	}
+
+}
+
+
+
+material 03-M240
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157 1
+			diffuse 0.192157 0.192157 0.192157 1
+			specular 0.0392157 0.0392157 0.0392157 1 100
+		}
+
+	}
+
+}
+
+
+
+material 03-M2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157 1
+			diffuse 0.192157 0.192157 0.192157 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157 1
+			diffuse 0.192157 0.192157 0.192157 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157 1
+			diffuse 0.192157 0.192157 0.192157 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157 1
+			diffuse 0.192157 0.192157 0.192157 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.192157 0.192157 0.192157 1
+			diffuse 0.192157 0.192157 0.192157 1
+			specular 0 0 0 1 100
+		}
+
+	}
+
+}
+
+
+
+material tongyong
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture tongyong.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material paoguan
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture paoguan.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material tongyong
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture tongyong.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material tongyong
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture tongyong.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material tongyong
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture tongyong.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material tongyong
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture tongyong.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material paota
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture paota.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material cheshen
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture cheshen.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material lvdai
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture lvdai.jpg
+			}
+		}
+
+	}
+
+}

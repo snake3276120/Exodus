@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Imageset Name="Achievement" Imagefile="Achievement.png" >
+    <Image Name="black" XPos="0" YPos="0" Width="1" Height="1" />
+    <Image Name="bg" XPos="0" YPos="494" Width="512" Height="530" />
+    <Image Name="star" XPos="154" YPos="144" Width="116" Height="111" />
+    <Image Name="time" XPos="16" YPos="143" Width="116" Height="111" />
+    <Image Name="cross" XPos="16" YPos="14" Width="116" Height="111" />
+    <Image Name="round" XPos="154" YPos="14" Width="116" Height="111" />
+    <Image Name="longbg" XPos="16" YPos="265" Width="476" Height="156" />
+    <Image Name="shortbg" XPos="287" YPos="429" Width="8" Height="65" />
+    <Image Name="backpush" XPos="198" YPos="429" Width="68" Height="65" />
+    <Image Name="backhover" XPos="107" YPos="429" Width="68" Height="65" />
+    <Image Name="backnormal" XPos="16" YPos="429" Width="68" Height="65" />
+    <Image Name="man" XPos="325" YPos="65" Width="134" Height="132" />
+</Imageset>

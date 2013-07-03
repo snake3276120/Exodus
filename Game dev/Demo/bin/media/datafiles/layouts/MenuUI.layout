@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="DefaultWindow" Name="MenuUI" >
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Window Type="Vanilla/StaticImage" Name="MenuUI/Background" >
+            <Property Name="Image" Value="set:MenuBgImageSet image:Background" />
+            <Property Name="FrameEnabled" Value="False" />
+            <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+            <Property Name="BackgroundEnabled" Value="False" />
+        </Window>
+        <Window Type="DefaultWindow" Name="MenuUI/MenuFrame" >
+            <Property Name="Alpha" Value="0" />
+            <Property Name="AlwaysOnTop" Value="True" />
+            <Property Name="UnifiedAreaRect" Value="{{0.624395,0},{0.0552037,0},{1.38082,0},{0.861788,0}}" />
+            <Window Type="TaharezLook/Button" Name="MenuUI/MenuFrame/Play" >
+                <Property Name="Font" Value="bb1532-16" />
+                <Property Name="Text" Value="Play                  " />
+                <Property Name="Alpha" Value="0.6" />
+                <Property Name="InheritsAlpha" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.00196951,0},{0.502775,0},{0.498308,0},{0.617967,0}}" />
+                <Property Name="WantsMultiClickEvents" Value="False" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="MenuUI/MenuFrame/ChangePlayer" >
+                <Property Name="Font" Value="tray-16" />
+                <Property Name="Text" Value="Change Player             " />
+                <Property Name="Alpha" Value="0.6" />
+                <Property Name="InheritsAlpha" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.122994,0},{0.638879,0},{0.494872,0},{0.722823,0}}" />
+                <Property Name="WantsMultiClickEvents" Value="False" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="MenuUI/MenuFrame/Achievement" >
+                <Property Name="Font" Value="tray-16" />
+                <Property Name="Text" Value="Achievement               " />
+                <Property Name="Alpha" Value="0.6" />
+                <Property Name="InheritsAlpha" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.123468,0},{0.734509,0},{0.496463,0},{0.813538,0}}" />
+                <Property Name="WantsMultiClickEvents" Value="False" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="MenuUI/MenuFrame/Settings" >
+                <Property Name="Font" Value="tray-16" />
+                <Property Name="Text" Value="Settings                       " />
+                <Property Name="Alpha" Value="0.6" />
+                <Property Name="InheritsAlpha" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.1203,0},{0.825013,0},{0.497535,0},{0.905412,0}}" />
+                <Property Name="WantsMultiClickEvents" Value="False" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="MenuUI/MenuFrame/Exit" >
+                <Property Name="Font" Value="tray-16" />
+                <Property Name="Text" Value="Quit Game                 " />
+                <Property Name="Alpha" Value="0.6" />
+                <Property Name="InheritsAlpha" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0.116944,0},{0.918153,0},{0.498918,0},{0.995379,0}}" />
+                <Property Name="WantsMultiClickEvents" Value="False" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

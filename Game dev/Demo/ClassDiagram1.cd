@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Demo::DemoApp" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAMQAgAAAAQABAICACAAAAACAQAAwAAQEg=</HashCode>
+      <FileName>src\DemoApp.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo::IFrameListener" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>src\IFrameListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo::IKeyMouseListener" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAA=</HashCode>
+      <FileName>src\IKeyMouseListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo::GUISystem" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAABEAIgQAgAAABgACAkAAAAAQIAoBAoAgAGAEAAA=</HashCode>
+      <FileName>src\GUISystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo::MenuState" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAABAAAAAAAAAABAAgACABAAAAAAAAgABAAAAKAEIAA=</HashCode>
+      <FileName>src\MenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo::State" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAQAAYAAAgAAAAgABAAABDAAIAA=</HashCode>
+      <FileName>src\State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo::StateManager" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECgEAAAAAAAQAABAAoQAAMACAgEAAAgABEAAACAEAAA=</HashCode>
+      <FileName>src\StateManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demo::InputSystem" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAGAAAAAAAEAAAAAAAEAASIAAUAIAIAABABIAAAA=</HashCode>
+      <FileName>src\InputSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

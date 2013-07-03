@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="DefaultWindow" Name="AchievementUI" >
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Window Type="Vanilla/StaticImage" Name="AchievementUI/Background" >
+            <Property Name="Image" Value="set:MenuBgImageSet image:Background" />
+            <Property Name="FrameEnabled" Value="False" />
+            <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+            <Property Name="BackgroundEnabled" Value="False" />
+        </Window>
+        <Window Type="DefaultWindow" Name="AchievementUI/Frame" >
+            <Property Name="AlwaysOnTop" Value="True" />
+            <Property Name="UnifiedAreaRect" Value="{{0.5,0},{0,0},{1,0},{1,0}}" />
+            <Window Type="DefaultWindow" Name="AchievementUI/Frame/Top" >
+                <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{0.216667,0}}" />
+                <Window Type="Vanilla/StaticImage" Name="AchievementUI/Frame/Top/Bg" >
+                    <Property Name="Image" Value="set:Achievement image:longbg" />
+                    <Property Name="FrameEnabled" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+                </Window>
+            </Window>
+            <Window Type="DefaultWindow" Name="AchievementUI/Frame/Middle" >
+                <Property Name="UnifiedAreaRect" Value="{{0,0},{0.216667,0},{1,0},{0.918333,0}}" />
+                <Window Type="Vanilla/StaticImage" Name="AchievementUI/Frame/Middle/Bg" >
+                    <Property Name="Image" Value="set:Achievement image:bg" />
+                    <Property Name="FrameEnabled" Value="False" />
+                    <Property Name="InheritsAlpha" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+                </Window>
+            </Window>
+            <Window Type="DefaultWindow" Name="AchievementUI/Frame/Bottom" >
+                <Property Name="UnifiedAreaRect" Value="{{0,0},{0.918333,0},{1,0},{1,0}}" />
+                <Window Type="Vanilla/StaticImage" Name="AchievementUI/Frame/Bottom/Bg" >
+                    <Property Name="Image" Value="set:Achievement image:shortbg" />
+                    <Property Name="FrameEnabled" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0021575,0},{0,0},{1.00216,0},{1,0}}" />
+                </Window>
+                <Window Type="Vanilla/ButtonB" Name="AchievementUI/Frame/Bottom/BackButton" >
+                    <Property Name="HoverImage" Value="set:Achievement image:backhover" />
+                    <Property Name="AlwaysOnTop" Value="True" />
+                    <Property Name="NormalImage" Value="set:Achievement image:backnormal" />
+                    <Property Name="PushedImage" Value="set:Achievement image:backpush" />
+                    <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{0.135856,0},{1,0}}" />
+                </Window>
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

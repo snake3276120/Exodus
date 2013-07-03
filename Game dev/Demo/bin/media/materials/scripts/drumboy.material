@@ -1,0 +1,154 @@
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			specular 0.684 0.684 0.684 1 16
+
+			texture_unit
+			{
+				texture red-iron.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture drum.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 07-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.992157 0.992157 0.992157 1
+			diffuse 0.992157 0.992157 0.992157 1
+			specular 0.558 0.558 0.558 1 10
+
+			texture_unit
+			{
+				texture iron.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 10-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.666667 0 0 1
+			diffuse 0.666667 0 0 1
+			specular 0.072 0.072 0.072 1 1
+		}
+
+	}
+
+}
+
+
+
+material 09-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0352941 0.0352941 0.0352941 1
+			diffuse 0.0352941 0.0352941 0.0352941 1
+			specular 0.414 0.414 0.414 1 22
+		}
+
+	}
+
+}
+
+
+
+material 13-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture cloth2.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 14-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0.18 0.18 0.18 1 1
+
+			texture_unit
+			{
+				texture face2.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 01-Default
+{
+	technique
+	{
+		pass
+		{
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}

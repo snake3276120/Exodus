@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="DefaultWindow" Name="UnfinishUI" >
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Window Type="Vanilla/StaticImage" Name="UnfinishUI/Background" >
+            <Property Name="Image" Value="set:MenuBgImageSet image:Background" />
+            <Property Name="FrameEnabled" Value="False" />
+            <Property Name="InheritsAlpha" Value="False" />
+            <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+            <Property Name="BackgroundEnabled" Value="False" />
+            <Window Type="Vanilla/StaticImage" Name="UnfinishUI/Background/Frame" >
+                <Property Name="Alpha" Value="0.82" />
+                <Property Name="Image" Value="set:Achievement image:black" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0,0},{0.33,0},{1,0},{0.670061,0}}" />
+                <Window Type="Vanilla/StaticImage" Name="UnfinishUI/Background/Frame/black" >
+                    <Property Name="Image" Value="set:Achievement image:black" />
+                    <Property Name="FrameEnabled" Value="False" />
+                    <Property Name="InheritsAlpha" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.105502,0},{0.0380054,0},{0.905664,0},{0.886862,0}}" />
+                </Window>
+                <Window Type="Vanilla/StaticImage" Name="UnfinishUI/Background/Frame/Photo" >
+                    <Property Name="Image" Value="set:Achievement image:man" />
+                    <Property Name="AlwaysOnTop" Value="True" />
+                    <Property Name="FrameEnabled" Value="False" />
+                    <Property Name="InheritsAlpha" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.115534,0},{0.0810156,0},{0.306203,0},{0.849428,0}}" />
+                </Window>
+                <Window Type="Vanilla/StaticText" Name="UnfinishUI/Background/Frame/Text" >
+                    <Property Name="Font" Value="bb1532-16" />
+                    <Property Name="Text" >```````````````to be develop```````````````````````
+
+
+`                                                   `
+`                                                   `
+
+``````````````````thanks you```````````````````````````</Property>
+                    <Property Name="HorzExtent" Value="471" />
+                    <Property Name="VertExtent" Value="110.723" />
+                    <Property Name="AlwaysOnTop" Value="True" />
+                    <Property Name="TextColours" Value="tl:FFFFBB00 tr:FFFFBB00 bl:FFFFBB00 br:FFFFBB00" />
+                    <Property Name="InheritsAlpha" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.316181,0},{0.0810156,0},{0.896277,0},{0.861391,0}}" />
+                    <Property Name="BackgroundEnabled" Value="False" />
+                </Window>
+            </Window>
+            <Window Type="Vanilla/StaticImage" Name="UnfinishUI/Background/ButtonFrame" >
+                <Property Name="Alpha" Value="0.85" />
+                <Property Name="Image" Value="set:Achievement image:black" />
+                <Property Name="FrameEnabled" Value="False" />
+                <Property Name="UnifiedAreaRect" Value="{{0,0},{0.696657,0},{1,0},{0.782523,0}}" />
+                <Window Type="Vanilla/ButtonB" Name="UnfinishUI/Background/ButtonFrame/Button" >
+                    <Property Name="HoverImage" Value="set:Achievement image:backhover" />
+                    <Property Name="NormalImage" Value="set:Achievement image:backnormal" />
+                    <Property Name="PushedImage" Value="set:Achievement image:backpush" />
+                    <Property Name="InheritsAlpha" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.336994,0},{-0.0260653,0},{0.421656,0},{1.02258,0}}" />
+                </Window>
+                <Window Type="Vanilla/StaticText" Name="UnfinishUI/Background/ButtonFrame/Text" >
+                    <Property Name="Font" Value="digifaw" />
+                    <Property Name="Text" Value="back to menu" />
+                    <Property Name="HorzExtent" Value="138" />
+                    <Property Name="VertExtent" Value="19.52" />
+                    <Property Name="FrameEnabled" Value="False" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.441251,0},{3.72529e-009,0},{0.69125,0},{1,0}}" />
+                    <Property Name="BackgroundEnabled" Value="False" />
+                </Window>
+            </Window>
+        </Window>
+        <Window Type="Vanilla/StaticImage" Name="UnfinishUI/Frontground" >
+            <Property Name="Alpha" Value="0" />
+            <Property Name="Image" Value="set:MenuBgImageSet image:Background" />
+            <Property Name="FrameEnabled" Value="False" />
+            <Property Name="InheritsAlpha" Value="False" />
+            <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+            <Property Name="BackgroundEnabled" Value="False" />
+        </Window>
+    </Window>
+</GUILayout>

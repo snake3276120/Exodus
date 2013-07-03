@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>  
+<Animations>  
+        <AnimationDefinition name="MoveToLeft" duration="0.8" replayMode="loop">  
+            <Affector property="Image" interpolator="String">  
+                 <KeyFrame position="0.0" value="set:Achievement image:star" />  
+                 <KeyFrame position="0.1" progression="discrete" value="set:Achievement image:star" />  
+                 <KeyFrame position="0.2" progression="discrete" value="set:Achievement image:time" />  
+                 <KeyFrame position="0.3" progression="discrete" value="set:Achievement image:cross" />  
+            </Affector>  
+        </AnimationDefinition>
+</Animations>  
