@@ -1,297 +1,282 @@
-16:47:05: Creating resource group General
-16:47:05: Creating resource group Internal
-16:47:05: Creating resource group Autodetect
-16:47:05: SceneManagerFactory for type 'DefaultSceneManager' registered.
-16:47:05: Registering ResourceManager for type Material
-16:47:05: Registering ResourceManager for type Mesh
-16:47:05: Registering ResourceManager for type Skeleton
-16:47:05: MovableObjectFactory for type 'ParticleSystem' registered.
-16:47:05: OverlayElementFactory for type Panel registered.
-16:47:05: OverlayElementFactory for type BorderPanel registered.
-16:47:05: OverlayElementFactory for type TextArea registered.
-16:47:05: Registering ResourceManager for type Font
-16:47:05: ArchiveFactory for archive type FileSystem registered.
-16:47:05: ArchiveFactory for archive type Zip registered.
-16:47:05: DDS codec registering
-16:47:05: FreeImage version: 3.13.1
-16:47:05: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
-16:47:05: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,bay,bmq,cr2,crw,cs1,dc2,dcr,dng,erf,fff,hdr,k25,kdc,mdc,mos,mrw,nef,orf,pef,pxn,raf,raw,rdc,sr2,srf,arw,3fr,cine,ia,kc2,mef,nrw,qtk,rw2,sti,drf,dsc,ptx,cap,iiq,rwz
-16:47:05: Registering ResourceManager for type HighLevelGpuProgram
-16:47:05: Registering ResourceManager for type Compositor
-16:47:05: MovableObjectFactory for type 'Entity' registered.
-16:47:05: MovableObjectFactory for type 'Light' registered.
-16:47:05: MovableObjectFactory for type 'BillboardSet' registered.
-16:47:05: MovableObjectFactory for type 'ManualObject' registered.
-16:47:05: MovableObjectFactory for type 'BillboardChain' registered.
-16:47:05: MovableObjectFactory for type 'RibbonTrail' registered.
-16:47:05: Loading library .\RenderSystem_Direct3D9
-16:47:05: Installing plugin: D3D9 RenderSystem
-16:47:05: D3D9 : Direct3D9 Rendering Subsystem created.
-16:47:05: D3D9: Driver Detection Starts
-16:47:05: D3D9: Driver Detection Ends
-16:47:05: Plugin successfully installed
-16:47:05: Loading library .\RenderSystem_GL
-16:47:05: Installing plugin: GL RenderSystem
-16:47:05: OpenGL Rendering Subsystem created.
-16:47:06: Plugin successfully installed
-16:47:06: *-*-* OGRE Initialising
-16:47:06: *-*-* Version 1.7.2 (Cthugha)
-16:47:06: Creating resource group Animations
-16:47:06: Added resource location '../media/datafiles/animations' of type 'FileSystem' to resource group 'Animations'
-16:47:06: Creating resource group Essential
-16:47:06: Added resource location '../media/thumbnails' of type 'FileSystem' to resource group 'Essential'
-16:47:06: Creating resource group Fonts
-16:47:06: Added resource location '../media/datafiles/fonts' of type 'FileSystem' to resource group 'Fonts'
-16:47:06: Added resource location '../media' of type 'FileSystem' to resource group 'General'
-16:47:06: Added resource location '../media/gui' of type 'FileSystem' to resource group 'General'
-16:47:06: Creating resource group Imagesets
-16:47:06: Added resource location '../media/datafiles/imagesets' of type 'FileSystem' to resource group 'Imagesets'
-16:47:06: Creating resource group Layouts
-16:47:06: Added resource location '../media/datafiles/layouts' of type 'FileSystem' to resource group 'Layouts'
-16:47:06: Creating resource group LookNFeel
-16:47:06: Added resource location '../media/datafiles/looknfeel' of type 'FileSystem' to resource group 'LookNFeel'
-16:47:06: Creating resource group Popular
-16:47:06: Added resource location '../media/fonts' of type 'FileSystem' to resource group 'Popular'
-16:47:06: Added resource location '../media/models' of type 'FileSystem' to resource group 'Popular'
-16:47:06: Added resource location '../media/materials/scripts' of type 'FileSystem' to resource group 'Popular'
-16:47:06: Added resource location '../media/materials/textures' of type 'FileSystem' to resource group 'Popular'
-16:47:06: Added resource location '../media/models/Sinbad.zip' of type 'Zip' to resource group 'Popular'
-16:47:06: Creating resource group Schemes
-16:47:06: Added resource location '../media/datafiles/schemes' of type 'FileSystem' to resource group 'Schemes'
-16:47:06: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
-16:47:06: D3D9 : RenderSystem Option: FSAA = 0
-16:47:06: D3D9 : RenderSystem Option: Floating-point mode = Fastest
-16:47:06: D3D9 : RenderSystem Option: Full Screen = No
-16:47:06: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-NVIDIA GeForce 8600 GTS
-16:47:06: D3D9 : RenderSystem Option: Resource Creation Policy = Create on all devices
-16:47:06: D3D9 : RenderSystem Option: VSync = No
-16:47:06: D3D9 : RenderSystem Option: VSync Interval = 1
-16:47:06: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
-16:47:06: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
-16:47:06: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-NVIDIA GeForce GTX 670
-16:47:06: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
-16:47:06: D3D9 : RenderSystem Option: FSAA = 0
-16:47:06: D3D9 : RenderSystem Option: Floating-point mode = Fastest
-16:47:06: D3D9 : RenderSystem Option: Full Screen = No
-16:47:06: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-NVIDIA GeForce 8600 GTS
-16:47:06: D3D9 : RenderSystem Option: Resource Creation Policy = Create on all devices
-16:47:06: D3D9 : RenderSystem Option: VSync = No
-16:47:06: D3D9 : RenderSystem Option: VSync Interval = 1
-16:47:06: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
-16:47:06: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
-16:47:06: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-NVIDIA GeForce GTX 670
-16:47:12: D3D9 : RenderSystem Option: FSAA = 4
-16:47:20: D3D9 : RenderSystem Option: VSync = Yes
-16:47:26: D3D9 : RenderSystem Option: Video Mode = 1600 x 900 @ 32-bit colour
-16:47:27: CPU Identifier & Features
-16:47:27: -------------------------
-16:47:27:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz
-16:47:27:  *      SSE: yes
-16:47:27:  *     SSE2: yes
-16:47:27:  *     SSE3: yes
-16:47:27:  *      MMX: yes
-16:47:27:  *   MMXEXT: yes
-16:47:27:  *    3DNOW: no
-16:47:27:  * 3DNOWEXT: no
-16:47:27:  *     CMOV: yes
-16:47:27:  *      TSC: yes
-16:47:27:  *      FPU: yes
-16:47:27:  *      PRO: yes
-16:47:27:  *       HT: no
-16:47:27: -------------------------
-16:47:27: D3D9 : Subsystem Initialising
-16:47:27: Registering ResourceManager for type Texture
-16:47:27: Registering ResourceManager for type GpuProgram
-16:47:27: D3D9RenderSystem::_createRenderWindow "Demo", 1600x900 windowed  miscParams: FSAA=4 FSAAHint= colourDepth=32 gamma=false monitorIndex=0 useNVPerfHUD=false vsync=true vsyncInterval=1 
-16:47:27: D3D9 : Created D3D9 Rendering Window 'Demo' : 1600x900, 32bpp
-16:47:27: D3D9: Vertex texture format supported - PF_A8R8G8B8
-16:47:27: D3D9: Vertex texture format supported - PF_B8G8R8A8
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
-16:47:27: D3D9: Vertex texture format supported - PF_R8G8B8A8
-16:47:27: D3D9: Vertex texture format supported - PF_DEPTH
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT16_R
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT32_R
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT16_GR
-16:47:27: D3D9: Vertex texture format supported - PF_FLOAT32_GR
-16:47:27: D3D9: Vertex texture format supported - PF_PVRTC_RGB2
-16:47:27: D3D9: Vertex texture format supported - PF_PVRTC_RGBA2
-16:47:27: D3D9: Vertex texture format supported - PF_PVRTC_RGB4
-16:47:27: D3D9: Vertex texture format supported - PF_PVRTC_RGBA4
-16:47:27: RenderSystem capabilities
-16:47:27: -------------------------
-16:47:27: RenderSystem Name: Direct3D9 Rendering Subsystem
-16:47:27: GPU Vendor: nvidia
-16:47:27: Device Name: Monitor-1-NVIDIA GeForce GTX 670
-16:47:27: Driver Version: 9.18.13.2018
-16:47:27:  * Fixed function pipeline: yes
-16:47:27:  * Hardware generation of mipmaps: yes
-16:47:27:  * Texture blending: yes
-16:47:27:  * Anisotropic texture filtering: yes
-16:47:27:  * Dot product texture operation: yes
-16:47:27:  * Cube mapping: yes
-16:47:27:  * Hardware stencil buffer: yes
-16:47:27:    - Stencil depth: 8
-16:47:27:    - Two sided stencil support: yes
-16:47:27:    - Wrap stencil values: yes
-16:47:27:  * Hardware vertex / index buffers: yes
-16:47:27:  * Vertex programs: yes
-16:47:27:  * Number of floating-point constants for vertex programs: 256
-16:47:27:  * Number of integer constants for vertex programs: 16
-16:47:27:  * Number of boolean constants for vertex programs: 16
-16:47:27:  * Fragment programs: yes
-16:47:27:  * Number of floating-point constants for fragment programs: 224
-16:47:27:  * Number of integer constants for fragment programs: 16
-16:47:27:  * Number of boolean constants for fragment programs: 16
-16:47:27:  * Geometry programs: no
-16:47:27:  * Number of floating-point constants for geometry programs: 0
-16:47:27:  * Number of integer constants for geometry programs: 512
-16:47:27:  * Number of boolean constants for geometry programs: 0
-16:47:27:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
-16:47:27:  * Texture Compression: yes
-16:47:27:    - DXT: yes
-16:47:27:    - VTC: no
-16:47:27:    - PVRTC: no
-16:47:27:  * Scissor Rectangle: yes
-16:47:27:  * Hardware Occlusion Query: yes
-16:47:27:  * User clip planes: yes
-16:47:27:  * VET_UBYTE4 vertex element type: yes
-16:47:27:  * Infinite far plane projection: yes
-16:47:27:  * Hardware render-to-texture: yes
-16:47:27:  * Floating point textures: yes
-16:47:27:  * Non-power-of-two textures: yes
-16:47:27:  * Volume textures: yes
-16:47:27:  * Multiple Render Targets: 4
-16:47:27:    - With different bit depths: yes
-16:47:27:  * Point Sprites: yes
-16:47:27:  * Extended point parameters: yes
-16:47:27:  * Max Point Size: 10
-16:47:27:  * Vertex texture fetch: yes
-16:47:27:  * Number of world matrices: 0
-16:47:27:  * Number of texture units: 8
-16:47:27:  * Stencil buffer depth: 8
-16:47:27:  * Number of vertex blend matrices: 0
-16:47:27:    - Max vertex textures: 4
-16:47:27:    - Vertex textures shared: no
-16:47:27:  * Render to Vertex Buffer : no
-16:47:27:  * DirectX per stage constants: yes
-16:47:27: ***************************************
-16:47:27: *** D3D9 : Subsystem Initialised OK ***
-16:47:27: ***************************************
-16:47:27: DefaultWorkQueue('Root') initialising on thread 004693B8.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 00477210 starting.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 00477240 starting.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 004772A0 starting.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 00477300 starting.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 00477360 starting.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 004773C0 starting.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 00477420 starting.
-16:47:27: DefaultWorkQueue('Root')::WorkerFunc - thread 00477480 starting.
-16:47:27: Particle Renderer Type 'billboard' registered
-16:47:27: Parsing scripts for resource group Animations
-16:47:27: Finished parsing scripts for resource group Animations
-16:47:27: Parsing scripts for resource group Autodetect
-16:47:27: Finished parsing scripts for resource group Autodetect
-16:47:27: Parsing scripts for resource group Essential
-16:47:27: Finished parsing scripts for resource group Essential
-16:47:27: Parsing scripts for resource group Fonts
-16:47:27: Finished parsing scripts for resource group Fonts
-16:47:27: Parsing scripts for resource group General
-16:47:27: Finished parsing scripts for resource group General
-16:47:27: Parsing scripts for resource group Imagesets
-16:47:27: Finished parsing scripts for resource group Imagesets
-16:47:27: Parsing scripts for resource group Internal
-16:47:27: Finished parsing scripts for resource group Internal
-16:47:27: Parsing scripts for resource group Layouts
-16:47:27: Finished parsing scripts for resource group Layouts
-16:47:27: Parsing scripts for resource group LookNFeel
-16:47:27: Finished parsing scripts for resource group LookNFeel
-16:47:27: Parsing scripts for resource group Popular
-16:47:27: Parsing script abtank.material
-16:47:27: Parsing script drumboy.material
-16:47:27: Parsing script Examples.material
-16:47:27: Compiler error: reference to a non existing object in Examples.material(253)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(772)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(784)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(1281)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(1473)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(1508)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(1617)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(1622)
-16:47:27: Compiler error: reference to a non existing object in Examples.material(1716)
-16:47:27: Parsing script Sinbad.material
-16:47:27: Parsing script sample.fontdef
-16:47:27: Finished parsing scripts for resource group Popular
-16:47:27: Parsing scripts for resource group Schemes
-16:47:27: Finished parsing scripts for resource group Schemes
-16:47:27: Texture: _cegui_ogre_0: Loading 1 faces(PF_A8B8G8R8,128x128x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
-16:47:27: Texture: _cegui_ogre_1: Loading 1 faces(PF_A8B8G8R8,800x600x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,800x600x1.
-16:47:27: Texture: _cegui_ogre_2: Loading 1 faces(PF_B8G8R8,800x600x1) with 0 generated mipmaps from Image. Internal format is PF_X8R8G8B8,800x600x1.
-16:47:28: Texture: _cegui_ogre_3: Loading 1 faces(PF_A8B8G8R8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-16:47:28: Texture: _cegui_ogre_4: Loading 1 faces(PF_A8B8G8R8,512x1024x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x1024x1.
-16:47:28: Texture: _cegui_ogre_5: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
-16:47:28: Texture: _cegui_ogre_6: Loading 1 faces(PF_A8B8G8R8,128x128x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
-16:47:33: Texture: _cegui_ogre_9: Loading 1 faces(PF_A8B8G8R8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-16:47:33: Texture: _cegui_ogre_10: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
-16:47:35: Texture: BeachStones.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
-16:47:35: Mesh: Loading Sinbad.mesh.
-16:47:35: Skeleton: Loading Sinbad.skeleton
-16:47:35: WARNING: Sinbad.mesh is an older format ([MeshSerializer_v1.40]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
-16:47:35: Texture: sinbad_body.tga: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
-16:47:35: Texture: sinbad_clothes.tga: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
-16:47:35: Texture: sinbad_sword.tga: Loading 1 faces(PF_R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
-16:47:35: WARNING: the mesh 'Sinbad.mesh' includes vertices with more than 4 bone assignments. The lowest weighted assignments beyond this limit have been removed, so your animation may look slightly different. To eliminate this, reduce the number of bone assignments per vertex on your mesh to 4.
-16:47:35: Texture: spot_shadow_fade.png: Loading 1 faces(PF_R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
-16:48:04: Texture: _cegui_ogre_13: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
-16:48:06: DefaultWorkQueue('Root') shutting down on thread 004693B8.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 004773C0 stopped.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 00477300 stopped.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 00477480 stopped.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 004772A0 stopped.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 00477360 stopped.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 00477420 stopped.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 00477240 stopped.
-16:48:06: DefaultWorkQueue('Root')::WorkerFunc - thread 00477210 stopped.
-16:48:06: *-*-* OGRE Shutdown
-16:48:06: *-*-* OGRE Shutdown
-16:48:06: Unregistering ResourceManager for type Compositor
-16:48:06: Unregistering ResourceManager for type Font
-16:48:06: Unregistering ResourceManager for type Skeleton
-16:48:06: Unregistering ResourceManager for type Mesh
-16:48:06: Unregistering ResourceManager for type HighLevelGpuProgram
-16:48:06: Uninstalling plugin: GL RenderSystem
-16:48:06: *** Stopping Win32GL Subsystem ***
-16:48:06: Plugin successfully uninstalled
-16:48:06: Unloading library .\RenderSystem_GL
-16:48:06: Uninstalling plugin: D3D9 RenderSystem
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_0
-16:48:06: Released D3D9 texture: _cegui_ogre_0
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_1
-16:48:06: Released D3D9 texture: _cegui_ogre_1
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_2
-16:48:06: Released D3D9 texture: _cegui_ogre_2
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_3
-16:48:06: Released D3D9 texture: _cegui_ogre_3
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_4
-16:48:06: Released D3D9 texture: _cegui_ogre_4
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_5
-16:48:06: Released D3D9 texture: _cegui_ogre_5
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_6
-16:48:06: Released D3D9 texture: _cegui_ogre_6
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_9
-16:48:06: Released D3D9 texture: _cegui_ogre_9
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_10
-16:48:06: Released D3D9 texture: _cegui_ogre_10
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_13
-16:48:06: Released D3D9 texture: _cegui_ogre_13
-16:48:06: D3D9 device: 0x[0392FB60] destroy. Releasing D3D9 texture: _cegui_ogre_15
-16:48:06: Released D3D9 texture: _cegui_ogre_15
-16:48:06: D3D9 : Shutting down cleanly.
-16:48:06: Unregistering ResourceManager for type Texture
-16:48:06: Unregistering ResourceManager for type GpuProgram
-16:48:06: D3D9 : Direct3D9 Rendering Subsystem destroyed.
-16:48:06: Plugin successfully uninstalled
-16:48:06: Unloading library .\RenderSystem_Direct3D9
-16:48:06: Unregistering ResourceManager for type Material
+20:01:27: Creating resource group General
+20:01:27: Creating resource group Internal
+20:01:27: Creating resource group Autodetect
+20:01:27: SceneManagerFactory for type 'DefaultSceneManager' registered.
+20:01:27: Registering ResourceManager for type Material
+20:01:27: Registering ResourceManager for type Mesh
+20:01:27: Registering ResourceManager for type Skeleton
+20:01:27: MovableObjectFactory for type 'ParticleSystem' registered.
+20:01:27: OverlayElementFactory for type Panel registered.
+20:01:27: OverlayElementFactory for type BorderPanel registered.
+20:01:27: OverlayElementFactory for type TextArea registered.
+20:01:27: Registering ResourceManager for type Font
+20:01:27: ArchiveFactory for archive type FileSystem registered.
+20:01:27: ArchiveFactory for archive type Zip registered.
+20:01:27: DDS codec registering
+20:01:27: FreeImage version: 3.13.1
+20:01:27: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+20:01:27: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,bay,bmq,cr2,crw,cs1,dc2,dcr,dng,erf,fff,hdr,k25,kdc,mdc,mos,mrw,nef,orf,pef,pxn,raf,raw,rdc,sr2,srf,arw,3fr,cine,ia,kc2,mef,nrw,qtk,rw2,sti,drf,dsc,ptx,cap,iiq,rwz
+20:01:27: Registering ResourceManager for type HighLevelGpuProgram
+20:01:27: Registering ResourceManager for type Compositor
+20:01:27: MovableObjectFactory for type 'Entity' registered.
+20:01:27: MovableObjectFactory for type 'Light' registered.
+20:01:27: MovableObjectFactory for type 'BillboardSet' registered.
+20:01:27: MovableObjectFactory for type 'ManualObject' registered.
+20:01:27: MovableObjectFactory for type 'BillboardChain' registered.
+20:01:27: MovableObjectFactory for type 'RibbonTrail' registered.
+20:01:27: Loading library .\RenderSystem_Direct3D9
+20:01:27: Installing plugin: D3D9 RenderSystem
+20:01:27: D3D9 : Direct3D9 Rendering Subsystem created.
+20:01:27: D3D9: Driver Detection Starts
+20:01:27: D3D9: Driver Detection Ends
+20:01:28: Plugin successfully installed
+20:01:28: Loading library .\RenderSystem_GL
+20:01:28: Installing plugin: GL RenderSystem
+20:01:28: OpenGL Rendering Subsystem created.
+20:01:29: Plugin successfully installed
+20:01:29: *-*-* OGRE Initialising
+20:01:29: *-*-* Version 1.7.2 (Cthugha)
+20:01:29: Creating resource group Animations
+20:01:29: Added resource location '../media/datafiles/animations' of type 'FileSystem' to resource group 'Animations'
+20:01:29: Creating resource group Essential
+20:01:29: Added resource location '../media/thumbnails' of type 'FileSystem' to resource group 'Essential'
+20:01:29: Creating resource group Fonts
+20:01:29: Added resource location '../media/datafiles/fonts' of type 'FileSystem' to resource group 'Fonts'
+20:01:29: Added resource location '../media' of type 'FileSystem' to resource group 'General'
+20:01:29: Added resource location '../media/gui' of type 'FileSystem' to resource group 'General'
+20:01:29: Creating resource group Imagesets
+20:01:29: Added resource location '../media/datafiles/imagesets' of type 'FileSystem' to resource group 'Imagesets'
+20:01:29: Creating resource group Layouts
+20:01:29: Added resource location '../media/datafiles/layouts' of type 'FileSystem' to resource group 'Layouts'
+20:01:29: Creating resource group LookNFeel
+20:01:29: Added resource location '../media/datafiles/looknfeel' of type 'FileSystem' to resource group 'LookNFeel'
+20:01:29: Creating resource group Popular
+20:01:29: Added resource location '../media/fonts' of type 'FileSystem' to resource group 'Popular'
+20:01:29: Added resource location '../media/models' of type 'FileSystem' to resource group 'Popular'
+20:01:29: Added resource location '../media/materials/scripts' of type 'FileSystem' to resource group 'Popular'
+20:01:29: Added resource location '../media/materials/textures' of type 'FileSystem' to resource group 'Popular'
+20:01:29: Added resource location '../media/models/Sinbad.zip' of type 'Zip' to resource group 'Popular'
+20:01:29: Creating resource group Schemes
+20:01:29: Added resource location '../media/datafiles/schemes' of type 'FileSystem' to resource group 'Schemes'
+20:01:29: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+20:01:29: D3D9 : RenderSystem Option: FSAA = 4
+20:01:29: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+20:01:29: D3D9 : RenderSystem Option: Full Screen = No
+20:01:29: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-NVIDIA GeForce GTX 670
+20:01:29: D3D9 : RenderSystem Option: Resource Creation Policy = Create on all devices
+20:01:29: D3D9 : RenderSystem Option: VSync = Yes
+20:01:29: D3D9 : RenderSystem Option: VSync Interval = 1
+20:01:29: D3D9 : RenderSystem Option: Video Mode = 1600 x 900 @ 32-bit colour
+20:01:29: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+20:01:29: CPU Identifier & Features
+20:01:29: -------------------------
+20:01:29:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz
+20:01:29:  *      SSE: yes
+20:01:29:  *     SSE2: yes
+20:01:29:  *     SSE3: yes
+20:01:29:  *      MMX: yes
+20:01:29:  *   MMXEXT: yes
+20:01:29:  *    3DNOW: no
+20:01:29:  * 3DNOWEXT: no
+20:01:29:  *     CMOV: yes
+20:01:29:  *      TSC: yes
+20:01:29:  *      FPU: yes
+20:01:29:  *      PRO: yes
+20:01:29:  *       HT: no
+20:01:29: -------------------------
+20:01:29: D3D9 : Subsystem Initialising
+20:01:29: Registering ResourceManager for type Texture
+20:01:29: Registering ResourceManager for type GpuProgram
+20:01:29: D3D9RenderSystem::_createRenderWindow "Demo", 1600x900 windowed  miscParams: FSAA=4 FSAAHint= colourDepth=32 gamma=false monitorIndex=0 useNVPerfHUD=false vsync=true vsyncInterval=1 
+20:01:29: D3D9 : Created D3D9 Rendering Window 'Demo' : 1600x900, 32bpp
+20:01:29: D3D9: Vertex texture format supported - PF_A8R8G8B8
+20:01:29: D3D9: Vertex texture format supported - PF_B8G8R8A8
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+20:01:29: D3D9: Vertex texture format supported - PF_R8G8B8A8
+20:01:29: D3D9: Vertex texture format supported - PF_DEPTH
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT16_R
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT32_R
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT16_GR
+20:01:29: D3D9: Vertex texture format supported - PF_FLOAT32_GR
+20:01:29: D3D9: Vertex texture format supported - PF_PVRTC_RGB2
+20:01:29: D3D9: Vertex texture format supported - PF_PVRTC_RGBA2
+20:01:29: D3D9: Vertex texture format supported - PF_PVRTC_RGB4
+20:01:29: D3D9: Vertex texture format supported - PF_PVRTC_RGBA4
+20:01:29: RenderSystem capabilities
+20:01:29: -------------------------
+20:01:29: RenderSystem Name: Direct3D9 Rendering Subsystem
+20:01:29: GPU Vendor: nvidia
+20:01:29: Device Name: Monitor-1-NVIDIA GeForce GTX 670
+20:01:29: Driver Version: 9.18.13.2018
+20:01:29:  * Fixed function pipeline: yes
+20:01:29:  * Hardware generation of mipmaps: yes
+20:01:29:  * Texture blending: yes
+20:01:29:  * Anisotropic texture filtering: yes
+20:01:29:  * Dot product texture operation: yes
+20:01:29:  * Cube mapping: yes
+20:01:29:  * Hardware stencil buffer: yes
+20:01:29:    - Stencil depth: 8
+20:01:29:    - Two sided stencil support: yes
+20:01:29:    - Wrap stencil values: yes
+20:01:29:  * Hardware vertex / index buffers: yes
+20:01:29:  * Vertex programs: yes
+20:01:29:  * Number of floating-point constants for vertex programs: 256
+20:01:29:  * Number of integer constants for vertex programs: 16
+20:01:29:  * Number of boolean constants for vertex programs: 16
+20:01:29:  * Fragment programs: yes
+20:01:29:  * Number of floating-point constants for fragment programs: 224
+20:01:29:  * Number of integer constants for fragment programs: 16
+20:01:29:  * Number of boolean constants for fragment programs: 16
+20:01:29:  * Geometry programs: no
+20:01:29:  * Number of floating-point constants for geometry programs: 0
+20:01:29:  * Number of integer constants for geometry programs: 512
+20:01:29:  * Number of boolean constants for geometry programs: 0
+20:01:29:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+20:01:29:  * Texture Compression: yes
+20:01:29:    - DXT: yes
+20:01:29:    - VTC: no
+20:01:29:    - PVRTC: no
+20:01:29:  * Scissor Rectangle: yes
+20:01:29:  * Hardware Occlusion Query: yes
+20:01:29:  * User clip planes: yes
+20:01:29:  * VET_UBYTE4 vertex element type: yes
+20:01:29:  * Infinite far plane projection: yes
+20:01:29:  * Hardware render-to-texture: yes
+20:01:29:  * Floating point textures: yes
+20:01:29:  * Non-power-of-two textures: yes
+20:01:29:  * Volume textures: yes
+20:01:29:  * Multiple Render Targets: 4
+20:01:29:    - With different bit depths: yes
+20:01:29:  * Point Sprites: yes
+20:01:29:  * Extended point parameters: yes
+20:01:29:  * Max Point Size: 10
+20:01:29:  * Vertex texture fetch: yes
+20:01:29:  * Number of world matrices: 0
+20:01:29:  * Number of texture units: 8
+20:01:29:  * Stencil buffer depth: 8
+20:01:29:  * Number of vertex blend matrices: 0
+20:01:29:    - Max vertex textures: 4
+20:01:29:    - Vertex textures shared: no
+20:01:29:  * Render to Vertex Buffer : no
+20:01:29:  * DirectX per stage constants: yes
+20:01:29: ***************************************
+20:01:29: *** D3D9 : Subsystem Initialised OK ***
+20:01:29: ***************************************
+20:01:29: DefaultWorkQueue('Root') initialising on thread 003C93B0.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D72E0 starting.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7310 starting.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7370 starting.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D73D0 starting.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7430 starting.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7490 starting.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D74F0 starting.
+20:01:29: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7550 starting.
+20:01:29: Particle Renderer Type 'billboard' registered
+20:01:29: Parsing scripts for resource group Animations
+20:01:29: Finished parsing scripts for resource group Animations
+20:01:29: Parsing scripts for resource group Autodetect
+20:01:29: Finished parsing scripts for resource group Autodetect
+20:01:29: Parsing scripts for resource group Essential
+20:01:29: Finished parsing scripts for resource group Essential
+20:01:29: Parsing scripts for resource group Fonts
+20:01:29: Finished parsing scripts for resource group Fonts
+20:01:29: Parsing scripts for resource group General
+20:01:29: Finished parsing scripts for resource group General
+20:01:29: Parsing scripts for resource group Imagesets
+20:01:29: Finished parsing scripts for resource group Imagesets
+20:01:29: Parsing scripts for resource group Internal
+20:01:29: Finished parsing scripts for resource group Internal
+20:01:29: Parsing scripts for resource group Layouts
+20:01:29: Finished parsing scripts for resource group Layouts
+20:01:29: Parsing scripts for resource group LookNFeel
+20:01:29: Finished parsing scripts for resource group LookNFeel
+20:01:29: Parsing scripts for resource group Popular
+20:01:29: Parsing script abtank.material
+20:01:29: Parsing script drumboy.material
+20:01:29: Parsing script Examples.material
+20:01:29: Compiler error: reference to a non existing object in Examples.material(253)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(772)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(784)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(1281)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(1473)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(1508)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(1617)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(1622)
+20:01:29: Compiler error: reference to a non existing object in Examples.material(1716)
+20:01:29: Parsing script Sinbad.material
+20:01:29: Parsing script sample.fontdef
+20:01:29: Finished parsing scripts for resource group Popular
+20:01:29: Parsing scripts for resource group Schemes
+20:01:29: Finished parsing scripts for resource group Schemes
+20:01:29: Texture: _cegui_ogre_0: Loading 1 faces(PF_A8B8G8R8,128x128x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+20:01:29: Texture: _cegui_ogre_1: Loading 1 faces(PF_A8B8G8R8,800x600x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,800x600x1.
+20:01:29: Texture: _cegui_ogre_2: Loading 1 faces(PF_B8G8R8,800x600x1) with 0 generated mipmaps from Image. Internal format is PF_X8R8G8B8,800x600x1.
+20:01:29: Texture: _cegui_ogre_3: Loading 1 faces(PF_A8B8G8R8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+20:01:29: Texture: _cegui_ogre_4: Loading 1 faces(PF_A8B8G8R8,512x1024x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x1024x1.
+20:01:30: Texture: _cegui_ogre_5: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+20:01:30: Texture: _cegui_ogre_6: Loading 1 faces(PF_A8B8G8R8,128x128x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+20:01:35: Texture: _cegui_ogre_9: Loading 1 faces(PF_A8B8G8R8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+20:01:35: Texture: _cegui_ogre_10: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+20:01:37: Texture: _cegui_ogre_11: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+20:01:41: Texture: BeachStones.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+20:01:41: Mesh: Loading Sinbad.mesh.
+20:01:41: Skeleton: Loading Sinbad.skeleton
+20:01:41: WARNING: Sinbad.mesh is an older format ([MeshSerializer_v1.40]); you should upgrade it as soon as possible using the OgreMeshUpgrade tool.
+20:01:41: Texture: sinbad_body.tga: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+20:01:42: Texture: sinbad_clothes.tga: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+20:01:42: Texture: sinbad_sword.tga: Loading 1 faces(PF_R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,256x256x1.
+20:01:42: WARNING: the mesh 'Sinbad.mesh' includes vertices with more than 4 bone assignments. The lowest weighted assignments beyond this limit have been removed, so your animation may look slightly different. To eliminate this, reduce the number of bone assignments per vertex on your mesh to 4.
+20:01:42: Texture: spot_shadow_fade.png: Loading 1 faces(PF_R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+20:02:38: DefaultWorkQueue('Root') shutting down on thread 003C93B0.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7310 stopped.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7550 stopped.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D74F0 stopped.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D73D0 stopped.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7490 stopped.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7430 stopped.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D7370 stopped.
+20:02:38: DefaultWorkQueue('Root')::WorkerFunc - thread 003D72E0 stopped.
+20:02:38: *-*-* OGRE Shutdown
+20:02:38: *-*-* OGRE Shutdown
+20:02:38: Unregistering ResourceManager for type Compositor
+20:02:38: Unregistering ResourceManager for type Font
+20:02:38: Unregistering ResourceManager for type Skeleton
+20:02:38: Unregistering ResourceManager for type Mesh
+20:02:38: Unregistering ResourceManager for type HighLevelGpuProgram
+20:02:38: Uninstalling plugin: GL RenderSystem
+20:02:38: *** Stopping Win32GL Subsystem ***
+20:02:38: Plugin successfully uninstalled
+20:02:38: Unloading library .\RenderSystem_GL
+20:02:38: Uninstalling plugin: D3D9 RenderSystem
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_0
+20:02:38: Released D3D9 texture: _cegui_ogre_0
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_1
+20:02:38: Released D3D9 texture: _cegui_ogre_1
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_2
+20:02:38: Released D3D9 texture: _cegui_ogre_2
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_3
+20:02:38: Released D3D9 texture: _cegui_ogre_3
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_4
+20:02:38: Released D3D9 texture: _cegui_ogre_4
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_5
+20:02:38: Released D3D9 texture: _cegui_ogre_5
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_6
+20:02:38: Released D3D9 texture: _cegui_ogre_6
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_9
+20:02:38: Released D3D9 texture: _cegui_ogre_9
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_10
+20:02:38: Released D3D9 texture: _cegui_ogre_10
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_11
+20:02:38: Released D3D9 texture: _cegui_ogre_11
+20:02:38: D3D9 device: 0x[0361FB60] destroy. Releasing D3D9 texture: _cegui_ogre_19
+20:02:38: Released D3D9 texture: _cegui_ogre_19
+20:02:38: D3D9 : Shutting down cleanly.
+20:02:38: Unregistering ResourceManager for type Texture
+20:02:38: Unregistering ResourceManager for type GpuProgram
+20:02:38: D3D9 : Direct3D9 Rendering Subsystem destroyed.
+20:02:38: Plugin successfully uninstalled
+20:02:38: Unloading library .\RenderSystem_Direct3D9
+20:02:38: Unregistering ResourceManager for type Material
