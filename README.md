@@ -1,4 +1,4 @@
 Exodus
 ======
 
-Steady Aim RTS Game dev
+Abandoned Steady Aim RTS Game dev
